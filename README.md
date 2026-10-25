@@ -143,7 +143,7 @@ Four data-driven recommendations:
 | Executive Summary | ![Executive Summary](https://github.com/Tavleenkaur17/Campus-Placement-Analytics-Dashboard/blob/main/Executive%20Summary.png) |
 | Hiring & Selection Analytics | ![Hiring and Selection](https://github.com/Tavleenkaur17/Campus-Placement-Analytics-Dashboard/blob/main/Hiring%20And%20Selection%20Analytics.png) |
 | Skills & Internship Impact | ![Skills and Internship](https://github.com/Tavleenkaur17/Campus-Placement-Analytics-Dashboard/blob/main/Skills%20and%20Internship%20Impact.png) |
-| Certifications, Projects & Recruitment Criteria | ![Certifications](screenshots/Certifications__Projects_and_Recruitment_Criteria_Analytics.png) |
+| Certifications, Projects & Recruitment Criteria | ![Certifications](https://github.com/Tavleenkaur17/Campus-Placement-Analytics-Dashboard/blob/main/Certifications%2C%20Projects%20and%20Recruitment%20Criteria%20Analytics.png) |
 | Actionable Improvement Plans | ![Action Plans](screenshots/Actionable_Improvement_Plans_and_Action_Strategies.png) |
 
 
