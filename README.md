@@ -140,7 +140,7 @@ Four data-driven recommendations:
 
 | Page | Preview |
 |---|---|
-| Executive Summary | ![Executive Summary](screenshots/Executive_Summary.png) |
+| Executive Summary | ![Executive Summary](https://github.com/Tavleenkaur17/Campus-Placement-Analytics-Dashboard/blob/main/Executive%20Summary.png) |
 | Hiring & Selection Analytics | ![Hiring and Selection](screenshots/Hiring_And_Selection_Analytics.png) |
 | Skills & Internship Impact | ![Skills and Internship](screenshots/Skills_and_Internship_Impact.png) |
 | Certifications, Projects & Recruitment Criteria | ![Certifications](screenshots/Certifications__Projects_and_Recruitment_Criteria_Analytics.png) |
