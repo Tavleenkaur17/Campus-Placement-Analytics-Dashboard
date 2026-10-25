@@ -146,29 +146,6 @@ Four data-driven recommendations:
 | Certifications, Projects & Recruitment Criteria | ![Certifications](screenshots/Certifications__Projects_and_Recruitment_Criteria_Analytics.png) |
 | Actionable Improvement Plans | ![Action Plans](screenshots/Actionable_Improvement_Plans_and_Action_Strategies.png) |
 
----
-
-## 🗂️ Repository Structure
-
-```
-├── dashboard/        # Power BI file (.pbix)
-├── database/         # MySQL schema and sample data (.sql)
-├── data/             # Source Excel / CSV files
-├── screenshots/      # Dashboard page images
-└── README.md
-```
-
----
-
-## ▶️ How to Run
-
-1. Clone the repository: `git clone <your-repo-link>`
-2. Import the SQL file from `/database` into **MySQL**.
-3. Open the `.pbix` file in **Power BI Desktop**.
-4. Update the data source (MySQL server and database name) under *Transform Data → Data Source Settings*.
-5. Click **Refresh** to load the data.
-
----
 
 ## 🚀 Future Scope
 
